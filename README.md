@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+My name is Ali Mbacho, am from Kenya. I enjoy working with data. I would like to help business utilize data as a strategic advantage. Thanks to free available data we can get a lot of hidden information from analysis.
+
 <!--
 **Ali-Mbacho/Ali-Mbacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
