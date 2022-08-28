@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I play basketball**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ali-mbacho-36033097/</h3>
 <p align="left">
 </p>
 
